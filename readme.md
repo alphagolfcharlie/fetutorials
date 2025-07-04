@@ -1,8 +1,3 @@
----
-layout: default
-title: Tower Cab Mapping Tutorial
----
-
 # Tower Cab Map Creation Tutorial (vZOB)
 
 ## Software Setup
