@@ -33,6 +33,11 @@
 - **Fields**:
   - `color`: String (length 7)
   - `zIndex`: Integer (length 1)
+
+
+## S1
+![S1](images/S1.png)
+
 - Apply style: `Cab Polygons.qml`
 - Set fill color: `#717171`
 - Stroke style: No line
