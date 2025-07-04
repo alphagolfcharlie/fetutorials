@@ -35,7 +35,6 @@
   - `zIndex`: Integer (length 1)
 
 
-## S1
 ![S1](images/S1.png)
 
 - Apply style: `Cab Polygons.qml`
