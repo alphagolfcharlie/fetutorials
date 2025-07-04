@@ -1,8 +1,0 @@
-title: Tower Cab Mapping
-description: vZOB map creation tutorial
-
-remote_theme: bitbrain/jekyll-dash
-
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
